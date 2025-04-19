@@ -16,7 +16,7 @@ The dataset used for this project is sourced from HuggingFace:- [Emotion Dataset
 The model is based on DistilBERT, which has been fine-tuned on a custom dataset. The model currently detects the following 
 emotions:- `sadness`, `joy`, `love`, `anger`, `fear`, `surprise`.
 
-## Technologies Used :-
+### Technologies Used :-
 
 - **DistilBERT**: A pre-trained transformer model fine-tuned for text classification tasks.
 - **Streamlit**: A powerful tool for creating interactive web apps with minimal code.
