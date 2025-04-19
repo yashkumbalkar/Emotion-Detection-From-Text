@@ -1,4 +1,4 @@
-## **Deployed App on Streamlit link :-** [click here](https://yashkumbalkar-emotion-detection-from-text-app-48vzim.streamlit.app/)
+## Deployed App on Streamlit link :- [click here](https://yashkumbalkar-emotion-detection-from-text-app-48vzim.streamlit.app/)
 
 # Emotion Detection from Text using DistilBERT
 
